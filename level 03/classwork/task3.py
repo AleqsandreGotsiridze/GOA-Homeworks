@@ -1,10 +1,7 @@
 #დაპრინტეთ თქვენი საყვარელი ფეხბურთელების სახელები
 
-name = "Budu"
-surname = " zivzivadze"
+print("გიორგი მამარდაშვილი")
 
-name = "kvicha"
-surname = "kvaratskhelia"
+print("ხვიჩა კვარაცხელია")
 
-name = " Giorgi"
-surname = "mamardashvili"
+print("ბუდუ ზივზივაძე")
