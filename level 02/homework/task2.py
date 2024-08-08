@@ -15,4 +15,3 @@ surname = "Gurgenidze"
 
 name = "sandro"
 surname = "Jojua"
-print(name)
