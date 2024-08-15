@@ -15,5 +15,5 @@ favorite_programming_language = "python"
 #შევქმენი ცვლადი სახელად favorite_academy მნიშვნელობად მივანიჭე  "GOAL-ORIENTED ACADEMY"
 favorite_academy = "GOAL-ORIENTED ACADEMY"
 
-
+#დავპრინტე ყველა ცვლადი
 print("My full name is " + full_name + ". My hobby is " + hobby + ". My favorite drink is " + favorite_drink + ". My favorite programming language is " + favorite_programming_language + ". MY favorite academy is " + favorite_academy + ".")
